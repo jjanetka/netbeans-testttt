@@ -1,3 +1,6 @@
+//modified lines
+package src;
+
 import javax.swing.JOptionPane;
 
 public class MainFrame extends javax.swing.JFrame {
